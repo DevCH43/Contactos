@@ -8,9 +8,9 @@ git checkout master
 
 git status
 
-git add .
+git add pantallas/ .
 
-git commit -m "Update 3"
+git commit -m "Update 4"
 
 git push -u origin master
 
